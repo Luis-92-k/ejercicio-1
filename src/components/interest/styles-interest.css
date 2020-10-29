@@ -1,0 +1,8 @@
+.interest{
+    display: inline-block;
+    flex-direction: column;
+    background-color: green;
+    color: black;
+    width: 33.33%;
+    height: 50%;
+}

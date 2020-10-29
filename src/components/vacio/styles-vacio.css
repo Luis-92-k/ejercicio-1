@@ -1,0 +1,7 @@
+.vacio{
+    display: inline-block;
+    box-sizing: content-box;
+    background-color: grey;
+    width: 66.66%;
+    height: 50%;
+}

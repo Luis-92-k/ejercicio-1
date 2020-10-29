@@ -1,0 +1,7 @@
+.expectations{
+    display: flex;
+    flex-direction: column;
+    background-color: salmon;
+    width: 33.33%;
+    height: 50%;
+}
